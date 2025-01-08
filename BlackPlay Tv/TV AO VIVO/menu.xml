@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+    <channel>
+        <name>[B][COLOR yellow]LISTA 1[/COLOR][/B]</name>
+        <thumbnail>https://imgur.com/a/lNHb7E8</thumbnail>
+        <fanart>https://example.com/launch-fanart.jpg</fanart>
+        <info>Conteúdo de lançamentos recentes</info>
+        <externallink>https://example.com/launch-list.txt</externallink>
+    </channel>
+
+    <channel>
+        <name>[B][COLOR yellow]LISTA 2[/COLOR][/B]</name>
+        <thumbnail>https://imgur.com/a/lNHb7E8</thumbnail>
+        <fanart>https://example.com/launch-fanart.jpg</fanart>
+        <info>Conteúdo de lançamentos recentes</info>
+        <externallink>https://example.com/launch-list.txt</externallink>
+    </channel>
+    
+    <channel>
+        <name>[B][COLOR yellow]ESPORTES[/COLOR][/B]</name>
+        <thumbnail>https://imgur.com/a/lNHb7E8</thumbnail>
+        <fanart>https://example.com/action-fanart.jpg</fanart>
+        <info>Conteúdo de Ação</info>
+        <externallink>https://example.com/action-list.txt</externallink>
+    </channel>
+    
+    </channels>
+     
