@@ -75,21 +75,14 @@
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]NACIONAIS[/COLOR][/B]</name>
 <thumbnail>https://imgur.com/a/dGMVR8y</thumbnail>
 <fanart>https://imgur.com/a/dGMVR8y</fanart>
-<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/refs/heads/main/CATEGORIA%20NACIONAL.XML</externallink>
+<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/TORRENT/G%C3%8ANEROS/Nacional_modificado.XML</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]COMÉDIA[/COLOR][/B]</name>
 <thumbnail>https://imgur.com/a/dGMVR8y</thumbnail>
 <fanart>https://imgur.com/a/dGMVR8y</fanart>
-<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/refs/heads/main/CATEGORIA%20COM%C3%89DIA.XML</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]CLÁSSICOS[/COLOR][/B]</name>
-<thumbnail>https://imgur.com/a/dGMVR8y</thumbnail>
-<fanart>https://imgur.com/a/dGMVR8y</fanart>
-<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/refs/heads/main/CATEGORIA%20CL%C3%81SSICOS.XML</externallink>
+<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/TORRENT/G%C3%8ANEROS/Comedia_modificado.XML</externallink>
 </channel>
 
 </channels>
