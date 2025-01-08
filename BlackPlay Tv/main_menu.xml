@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+    
+    <channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]</name>
+        <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM_61hfI3yS8YO027wIssIAdjlSOD6yKf8TVrvHdHkBNb_nHrvYSLe-USebXlR3mmcn3PKlhk9Z2aE4XytpbsDjMkgXadBmqM546Y4PePgfs4elcDlAu6KLB0sgIOfSittyqhsiNejt3nI13ucq_dkBLROFMNbrWOC5LditaxZuEwPFX75efQcf4xdaZVT/s1600/GR%C3%8AMIO%20JACAREEMSE_20241216_180034_0001.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Animes</info>
+		<externallink>http://localhost/gujal/itensrc.xml</externallink>
+    </channel>
+	
+	<channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
+        <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG2iQ5LNP2G17_wbI8PyLZtcJxknzDgmz1j0BRlrZVyeT9dBA3VXc9rIpATmjM-FEnGX_YktKeeoQJtW9_RcRpA-8JJNXdvPQK-g5vTrIdMcpcTFQVKnsnptSlE_had1jrM8ZzfOcQglXJaXGOpwtiH1nV2KZerhstuBPG60E8qVeLXuiuoackt05MyUyG/s1600/GR%C3%8AMIO%20JACAREEMSE_20241216_180035_0002.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Canais do farruk</info>
+		<externallink>https://bit.ly/3xZ2T9O</externallink>
+    </channel>
+
+  <channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]SÉRIES[/COLOR][/B]</name>
+        <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh01PgyT4Sj5QZbEY9UJWoba3-adzXkEPgKp_1y6YPnXV_7W4fOxQmQfk-bfRyI8p7Y4edar5HnYxb5brAmTHTgzRMQQusbZMpJ6WHya7m-muxwOlZ8ld-OOOiWHNPfUMbXF0yl8Krm8cvkobRHTmAU_yztPUl8efxaLopkMQeiqLzP3iz03rXtQExQdmcI/s1600/GR%C3%8AMIO%20JACAREEMSE_20241216_180035_0003.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Canais do farruk</info>
+		<externallink>https://bit.ly/3xZ2T9O</externallink>
+    </channel>
+
+  <channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]ANIMES[/COLOR][/B]</name>
+        <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_R0Y8_0Rg9YHx9GBWCSSzdD18wP7NWN5U7lSx3_AvtpJ9PKnd0YvRydnR4B12VCIGJgG64eeOjTX-V8TnpqE0lFtLCPHT55cZmgBejliF3IqTukCRqrs-JkI4Yj4NYiRe_f0VzzzDsn_lccs8s-6yNLB9H_KqvFMuR9b843IcZ0AXijW-e0_-LFA91rnH/s1600/GR%C3%8AMIO%20JACAREEMSE_20241216_180036_0005.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Canais do farruk</info>
+		<externallink>https://bit.ly/3xZ2T9O</externallink>
+    </channel>
+
+  <channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]DESENHOS[/COLOR][/B]</name>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <fanart>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg__zAIqLChExS4c-1t-Ii7McxCf5dt7rxnkJN2BGyui48IqTZLrLwiWoGylkaxwuHPyDIeI58FROcFCN-ogqk1QWE2ETPGBmMxrIedS-n9mNfCL2-h7o2UCwUyc_Aj-CNF_pQNnzizB3bw8w5W32X1IlEonOIc2v-wJg5QOEEpI5y9zHOlQ1hkdcvqk7g2/s1600/GR%C3%8AMIO%20JACAREEMSE_20241216_180035_0004.png</fanart>
+		<info>Canais do farruk</info>
+		<externallink>https://bit.ly/3xZ2T9O</externallink>
+    </channel>
+
+  <channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]NOVELAS[/COLOR][/B]</name>
+        <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXZbHa5jNJ8oWYzs6ZduleaMPLXva0s9y4ssynnMWKPOes3F72SQDFSIRd4iWOs8cnJBzXhBJMVv5UYwAljzk7yEsINJyjgrZrXA_hUsMLdoc8kdgTMoQYlmyyFg85KIFjwrR-kX27qB1RQ68_UmK42bvit8SsXnH0x2VXzR8n6wGpyfGfwMhfglUcUw9o/s1600/GR%C3%8AMIO%20JACAREEMSE_20241221_143708_0000.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Canais do farruk</info>
+		<externallink>https://bit.ly/3xZ2T9O</externallink>
+    </channel>
+
+</channels>	
