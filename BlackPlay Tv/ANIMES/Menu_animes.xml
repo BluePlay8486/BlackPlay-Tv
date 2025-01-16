@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>  
+
+<canal>
+<canais>
+<name>[COLOR yellow][B]ANIMES :[COLOR white][B] TODOS[/B][/COLOR]</name>
+<thumbnail>https://imgur.com/SRqkC4N.jpg</thumbnail>
+<fanart>https://i.imgur.com/ApuEiY3.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://s3.us-west-1.wasabisys.com/addonformiga/animes/CAnimes.txt</externallink>
+<info> </info>
+<genre>[COLOR white][B]Animes Completos Dublados e Legendado[/B][/COLOR]</genre>
+</canal>
+</canais>
+
+
+<canal>
+<canais>
+<name>[COLOR yellow][B]ANIMES :[COLOR white][B] DUBLADOS[/B][/COLOR]</name>
+<thumbnail>https://imgur.com/HfDtXz6.jpg</thumbnail>
+<fanart>https://i.imgur.com/ApuEiY3.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://s3.us-west-1.wasabisys.com/addonformiga/animes/CDAnimes.txt</externallink>
+<info>Animes Completos Dublados</info>
+<genre>[COLOR white][B]Animes Completos Dublados [/B][/COLOR]</genre>
+</canal>
+</canais>
+
+<canal>
+<name>[COLOR yellow][B]ANIMES :[COLOR white][B] LEGENDADOS[/B][/COLOR]</name>
+<thumbnail>https://imgur.com/HCg3bj1.jpg</thumbnail>
+<fanart>https://i.imgur.com/ApuEiY3.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://s3.us-west-1.wasabisys.com/addonformiga/animes/CLAnimes.txt</externallink>
+<info> </info>
+<genre>[COLOR white][B]Animes[/B][/COLOR]</genre>
+</canal>
+
+
+<canal>
+<name>[COLOR yellow][B]ANIMES :[COLOR white][B] FINALIZADOS[/B][/COLOR]</name>
+<thumbnail>https://imgur.com/sKZZWjc.jpg</thumbnail>
+<fanart>https://i.imgur.com/ApuEiY3.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://s3.us-west-1.wasabisys.com/addonformiga/animes/CFimAnime.txt</externallink>
+<info>Animes Completos Ja Encerrados ou Finalizados</info>
+<genre>[COLOR white][B] Animes[/B][/COLOR]</genre>
+</canal>
+
+<canal>
+<name>[COLOR yellow][B]ANIMES :[COLOR white][B] EM ANDAMENTOS[/B][/COLOR]</name>
+<thumbnail>https://imgur.com/AbLJSDr.jpg</thumbnail>
+<fanart>https://i.imgur.com/ApuEiY3.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://s3.us-west-1.wasabisys.com/addonformiga/animes/CRenAnime.txt</externallink>
+<info> </info>
+<genre>[COLOR white][B]Animes Completos Com epsodios Semanais [/B][/COLOR]</genre>
+</canal>
