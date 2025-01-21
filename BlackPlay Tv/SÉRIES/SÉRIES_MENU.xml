@@ -5,7 +5,6 @@
         <name>[B][COLOR yellow]OPÇÃO:[/COLOR] [COLOR white]TORRENT[/COLOR][/B]</name>
         <thumbnail>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/refs/heads/main/ICONS%20ADDON/LOGO.png</thumbnail>
         <fanart>https://example.com/launch-fanart.jpg</fanart>
-        <info>Conteúdo de lançamentos recentes</info>
         <externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/refs/heads/main/BlackPlay%20Tv/S%C3%89RIES/TORRENT/S%C3%A9ries%20Torrent_Updated.XML</externallink>
     </channel>
     
@@ -14,7 +13,6 @@
         <name>[B][COLOR yellow]OPÇÃO:[/COLOR] [COLOR white]LINK DIRETO[/COLOR][/B]</name>
         <thumbnail>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/refs/heads/main/ICONS%20ADDON/LOGO.png</thumbnail>
         <fanart>https://example.com/action-fanart.jpg</fanart>
-        <info>Conteúdo de Ação</info>
         <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/S%C3%89RIES/LINK%20DIRETO/FILMES_torrent.xml</externallink>
     </channel>
     
