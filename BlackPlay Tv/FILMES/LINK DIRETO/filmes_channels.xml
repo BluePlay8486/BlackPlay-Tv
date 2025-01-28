@@ -91,12 +91,6 @@
         <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Guerra.txt</externallink>
     </channel>
     <channel>
-        <name>[B][COLOR yellow]FILMES[/COLOR] [COLOR white]| LEGENDADOS[/COLOR][/B]</name>
-        <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
-        <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
-        <externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/main/FILMES/LEGENDADOS.xml</externallink>
-    </channel>
-    <channel>
         <name>[B][COLOR yellow]FILMES[/COLOR] [COLOR white]| MARVEL[/COLOR][/B]</name>
         <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
         <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
@@ -106,30 +100,30 @@
         <name>[B][COLOR yellow]FILMES[/COLOR] [COLOR white]| NACIONAIS[/COLOR][/B]</name>
         <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
         <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
-        <externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/main/FILMES/NACIONAIS.xml</externallink>
+        <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Nacionais.txt</externallink>
     </channel>
     <channel>
         <name>[B][COLOR yellow]FILMES[/COLOR] [COLOR white]| RELIGIOSOS[/COLOR][/B]</name>
         <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
         <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
-        <externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/main/FILMES/RELIGIOSOS.xml</externallink>
+        <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Religiosos.txt</externallink>
     </channel>
     <channel>
         <name>[B][COLOR yellow]FILMES[/COLOR] [COLOR white]| ROMANCE[/COLOR][/B]</name>
         <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
         <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
-        <externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/main/FILMES/ROMANCE.xml</externallink>
+        <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Romance.txt</externallink>
     </channel>
     <channel>
         <name>[B][COLOR yellow]FILMES[/COLOR] [COLOR white]| SUSPENSE[/COLOR][/B]</name>
         <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
         <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
-        <externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/main/FILMES/SUSPENSE.xml</externallink>
+        <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Suspense.txt</externallink>
     </channel>
     <channel>
         <name>[B][COLOR yellow]FILMES[/COLOR] [COLOR white]| TERROR[/COLOR][/B]</name>
         <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
         <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
-        <externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/main/FILMES/TERROR.xml</externallink>
+        <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Terror.txt</externallink>
     </channel>
 </channels>
