@@ -28,49 +28,43 @@
         <name>[B][COLOR yellow]FILMES[/COLOR] [COLOR white]| ANIMAÇÃO / INFANTIL[/COLOR][/B]</name>
         <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
         <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
-        <externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/main/FILMES/ANIMACAO_INFANTIL.xml</externallink>
-    </channel>
-    <channel>
-        <name>[B][COLOR yellow]FILMES[/COLOR] [COLOR white]| ANIMES[/COLOR][/B]</name>
-        <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
-        <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
-        <externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/main/FILMES/ANIMES.xml</externallink>
+        <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Animacao.txt</externallink>
     </channel>
     <channel>
         <name>[B][COLOR yellow]FILMES[/COLOR] [COLOR white]| CINEMA[/COLOR][/B]</name>
         <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
         <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
-        <externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/main/FILMES/CINEMA.xml</externallink>
+        <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Cinema.txt</externallink>
     </channel>
     <channel>
         <name>[B][COLOR yellow]FILMES[/COLOR] [COLOR white]| COMÉDIA[/COLOR][/B]</name>
         <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
         <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
-        <externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/main/FILMES/COMEDIA.xml</externallink>
-    </channel>
-    <channel>
-        <name>[B][COLOR yellow]FILMES[/COLOR] [COLOR white]| DOCUMENTÁRIOS[/COLOR][/B]</name>
-        <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
-        <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
-        <externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/main/FILMES/DOCUMENTARIOS.xml</externallink>
+        <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Comedia.txt</externallink>
     </channel>
     <channel>
         <name>[B][COLOR yellow]FILMES[/COLOR] [COLOR white]| DRAMA[/COLOR][/B]</name>
         <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
         <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
-        <externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/main/FILMES/DRAMA.xml</externallink>
+        <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Drama.txt</externallink>
     </channel>
     <channel>
-        <name>[B][COLOR yellow]FILMES[/COLOR] [COLOR white]| FANTASIA E FICÇÃO[/COLOR][/B]</name>
+        <name>[B][COLOR yellow]FILMES[/COLOR] [COLOR white]| FICÇÃO[/COLOR][/B]</name>
         <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
         <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
-        <externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/main/FILMES/FANTASIA_FICCAO.xml</externallink>
+        <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Ficcao.txt</externallink>
+    </channel>
+    <channel>
+        <name>[B][COLOR yellow]FILMES[/COLOR] [COLOR white]| FANTASIA[/COLOR][/B]</name>
+        <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
+        <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+        <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Fantasia.txt</externallink>
     </channel>
     <channel>
         <name>[B][COLOR yellow]FILMES[/COLOR] [COLOR white]| FAROESTE[/COLOR][/B]</name>
         <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
         <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
-        <externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/main/FILMES/FAROESTE.xml</externallink>
+        <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Faroeste.txt</externallink>
     </channel>
     <channel>
         <name>[B][COLOR yellow]FILMES[/COLOR] [COLOR white]| GUERRA[/COLOR][/B]</name>
