@@ -2,15 +2,7 @@
 <channels>
 
     <channel>
-        <name>[B][COLOR yellow]LISTA 1[/COLOR][/B]</name>
-        <thumbnail>https://imgur.com/a/lNHb7E8</thumbnail>
-        <fanart>https://example.com/launch-fanart.jpg</fanart>
-        <info>Conteúdo de lançamentos recentes</info>
-        <externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/refs/heads/main/BlackPlay%20Tv/TV%20AO%20VIVO/LISTA%201/Tv%20ao%20vivo.txt</externallink>
-    </channel>
-
-    <channel>
-        <name>[B][COLOR yellow]LISTA 2[/COLOR][/B]</name>
+        <name>[B][COLOR yellow]SERIES[/COLOR][COLOR white]CANAIS AO VIVO[/COLOR][/B]</name>
         <thumbnail>https://imgur.com/a/lNHb7E8</thumbnail>
         <fanart>https://example.com/launch-fanart.jpg</fanart>
         <info>Conteúdo de lançamentos recentes</info>
@@ -18,7 +10,7 @@
     </channel>
     
     <channel>
-        <name>[B][COLOR yellow]ESPORTES[/COLOR][/B]</name>
+        <name>[B][COLOR yellow]SERIES[/COLOR][COLOR white]ESPORTES[/COLOR][/B]</name>
         <thumbnail>https://imgur.com/a/lNHb7E8</thumbnail>
         <fanart>https://example.com/action-fanart.jpg</fanart>
         <info>Conteúdo de Ação</info>
