@@ -2,7 +2,7 @@
 <channels>
 
     <channel>
-        <name>[B][COLOR yellow]OPÇÃO:[/COLOR][COLOR white]CANAIS AO VIVO[/COLOR][/B]</name>
+        <name>[B][COLOR yellow]OPÇÃO:[/COLOR][COLOR white] CANAIS AO VIVO[/COLOR][/B]</name>
         <thumbnail>https://imgur.com/a/lNHb7E8</thumbnail>
         <fanart>https://example.com/launch-fanart.jpg</fanart>
         <info>Conteúdo de lançamentos recentes</info>
@@ -10,7 +10,7 @@
     </channel>
     
     <channel>
-        <name>[B][COLOR yellow]OPÇÃO:[/COLOR][COLOR white]ESPORTES[/COLOR][/B]</name>
+        <name>[B][COLOR yellow]OPÇÃO:[/COLOR][COLOR white] ESPORTES[/COLOR][/B]</name>
         <thumbnail>https://imgur.com/a/lNHb7E8</thumbnail>
         <fanart>https://example.com/action-fanart.jpg</fanart>
         <info>Conteúdo de Ação</info>
