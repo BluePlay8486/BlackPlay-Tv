@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+    
+    <channel>
+        <name>DRAGON BALL CLÁSSICO</name>
+        <thumbnail>http://imagecdn.sh:80/images/6sMyV1KRpvnOTsry7ZUT0k2tDmk_big.jpg</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Animes</info>
+		<externallink>http://localhost/gujal/itensrc.xml</externallink>
+    </channel>
+	
+   <channel>
+        <name>DRAGON BALL Z</name>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Animes</info>
+		<externallink>http://localhost/gujal/itensrc.xml</externallink>
+    </channel>
+
+<channel>
+        <name>DRAGON BALL GT</name>
+        <thumbnail>https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Animes</info>
+		<externallink>http://localhost/gujal/itensrc.xml</externallink>
+    </channel>
+
+<channel>
+        <name>DRAGON BALL SUPER</name>
+        <thumbnail>https://image.tmdb.org/t/p/w780/oaYruAbW2UNnIROB2Bb94AI6YyT.jpg</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Animes</info>
+		<externallink>http://localhost/gujal/itensrc.xml</externallink>
+    </channel>
+
+</channels>	

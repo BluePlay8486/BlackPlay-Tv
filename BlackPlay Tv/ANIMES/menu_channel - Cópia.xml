@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	
+   <channel>
+        <name>DRAGON BALL Z S01</name>
+        <thumbnail>https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Animes</info>
+		<externallink>http://localhost/gujal/itensrc.xml</externallink>
+    </channel>
+
+<channel>
+        <name>DRAGON BALL Z S02</name>
+        <thumbnail>https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Animes</info>
+		<externallink>http://localhost/gujal/itensrc.xml</externallink>
+    </channel>
+
+
+<channel>
+        <name>DRAGON BALL Z S03</name>
+        <thumbnail>https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Animes</info>
+		<externallink>http://localhost/gujal/itensrc.xml</externallink>
+    </channel>
+
+<channel>
+        <name>DRAGON BALL Z S04</name>
+        <thumbnail>https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Animes</info>
+		<externallink>http://localhost/gujal/itensrc.xml</externallink>
+    </channel>
+
+<channel>
+        <name>DRAGON BALL Z S05</name>
+        <thumbnail>https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Animes</info>
+		<externallink>http://localhost/gujal/itensrc.xml</externallink>
+    </channel>
+
+<channel>
+        <name>DRAGON BALL Z S06</name>
+        <thumbnail>https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Animes</info>
+		<externallink>http://localhost/gujal/itensrc.xml</externallink>
+    </channel>
+
+<channel>
+        <name>DRAGON BALL Z S07</name>
+        <thumbnail>https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Animes</info>
+		<externallink>http://localhost/gujal/itensrc.xml</externallink>
+    </channel>
+
+<channel>
+        <name>DRAGON BALL Z S08</name>
+        <thumbnail>https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Animes</info>
+		<externallink>http://localhost/gujal/itensrc.xml</externallink>
+    </channel>
+
+<channel>
+        <name>DRAGON BALL Z S09</name>
+        <thumbnail>https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Animes</info>
+		<externallink>http://localhost/gujal/itensrc.xml</externallink>
+    </channel>
+
+</channels>	
