@@ -1,0 +1,96 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E01" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E01
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126344.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E02" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E02
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126345.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E03" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E03
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126346.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E04" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E04
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126347.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E05" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E05
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126348.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E06" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E06
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126349.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E07" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E07
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126350.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E08" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E08
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126351.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E09" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E09
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126352.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E10" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E10
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126354.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E11" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E11
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126355.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E12" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E12
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126356.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E13" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E13
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126357.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E14" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E14
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126358.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E15" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E15
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126359.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E16" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E16
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126360.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E17" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E17
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126361.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E18" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E18
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126362.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E19" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E19
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126363.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E20" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E20
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126364.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E21" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E21
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126365.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E22" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E22
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126366.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E23" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E23
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126367.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E24" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E24
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126368.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E25" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E25
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126369.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E26" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E26
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126370.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E27" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E27
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126372.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E28" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E28
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126373.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E29" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E29
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126374.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E30" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E30
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126375.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E31" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E31
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126376.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S04 E32" tvg-logo="https://image.tmdb.org/t/p/w780/hCUyiimqo0FjWakvEl2Yu6UNW69.jpg" group-title="Series | Funimation Now",Dragon Ball Z S04 E32
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126377.mp4

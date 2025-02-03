@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E01" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E01
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E02" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E02
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E03" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E03
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E04" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E04
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E05" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E05
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E06" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E06
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E07" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E07
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E08" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E08
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E09" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E09
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E10" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E10
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E11" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E11
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E12" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E12
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E13" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E13
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E14" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E14
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E15" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E15
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E16" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E16
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E17" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E17
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E18" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E18
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E19" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E19
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E20" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E20
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E21" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E21
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E22" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E22
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E23" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E23
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E24" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E24
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E25" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E25
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E26" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E26
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E27" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E27
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E28" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E28
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126190.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E29" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E29
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E30" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E30
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E31" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E31
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E32" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E32
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E33" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E33
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E34" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E34
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E35" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E35
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E36" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E36
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E37" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E37
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E38" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E38
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E39" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E39
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E40" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E40
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E41" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E41
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E42" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E42
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E43" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E43
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E44" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E44
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E45" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E45
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E46" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E46
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E47" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E47
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E48" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E48
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E49" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E49
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E50" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E50
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E51" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E51
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E52" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E52
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E53" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E53
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E54" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E54
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E55" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E55
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E56" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E56
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E57" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E57
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E58" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E58
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E59" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E59
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E60" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E60
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E61" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E61
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E62" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E62
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E63" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E63
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT S01 E64" tvg-logo="https://image.tmdb.org/t/p/w780/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg" group-title="Series | Crunchyroll",Dragon Ball GT S01 E64
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10126228.mp4
