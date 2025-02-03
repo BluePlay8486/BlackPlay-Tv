@@ -1,0 +1,301 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S01 E01" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 01 ",Da Vinci's Demons S01 E01
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111293.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S01 E02" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 01 ",Da Vinci's Demons S01 E02
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111294.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S01 E03" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 01 ",Da Vinci's Demons S01 E03
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111295.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S01 E04" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 01 ",Da Vinci's Demons S01 E04
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111296.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S01 E05" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 01 ",Da Vinci's Demons S01 E05
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111297.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S01 E06" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 01 ",Da Vinci's Demons S01 E06
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111298.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S01 E07" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 01 ",Da Vinci's Demons S01 E07
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111299.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S01 E08" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 01 ",Da Vinci's Demons S01 E08
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111300.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S02 E01" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 02 ",Da Vinci's Demons S02 E01
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111301.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S02 E02" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 02 ",Da Vinci's Demons S02 E02
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111302.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S02 E03" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 02 ",Da Vinci's Demons S02 E03
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111303.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S02 E04" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 02 ",Da Vinci's Demons S02 E04
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111304.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S02 E05" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 02 ",Da Vinci's Demons S02 E05
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111305.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S02 E06" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 02 ",Da Vinci's Demons S02 E06
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111306.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S02 E07" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 02 ",Da Vinci's Demons S02 E07
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111307.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S02 E08" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 02 ",Da Vinci's Demons S02 E08
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111308.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S02 E09" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 02 ",Da Vinci's Demons S02 E09
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111309.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S03 E01" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 03 ",Da Vinci's Demons S03 E01
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111311.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S03 E02" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 03 ",Da Vinci's Demons S03 E02
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111312.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S03 E03" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 03 ",Da Vinci's Demons S03 E03
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111313.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S03 E04" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 03 ",Da Vinci's Demons S03 E04
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111314.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S03 E05" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 03 ",Da Vinci's Demons S03 E05
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111315.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S03 E06" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 03 ",Da Vinci's Demons S03 E06
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111316.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S03 E07" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 03 ",Da Vinci's Demons S03 E07
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111317.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S03 E08" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 03 ",Da Vinci's Demons S03 E08
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111318.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S03 E09" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 03 ",Da Vinci's Demons S03 E09
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111319.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci's Demons S03 E10" tvg-logo="https://image.tmdb.org/t/p/w780/1vN2RNga7D6KfapldfuD1Lu0hN0.jpg" group-title="Da Vinci's Demons" catchup-source="Da Vinci's Demons"Temporada 03 ",Da Vinci's Demons S03 E10
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10111320.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Fleming S01 E01" tvg-logo="https://image.tmdb.org/t/p/w780/Ap2RdhXi8mEGsGrgfPpsVF01mSZ.jpg" group-title="Fleming" catchup-source="Fleming"Temporada 01 ",Fleming S01 E01
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10177169.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Fleming S01 E02" tvg-logo="https://image.tmdb.org/t/p/w780/Ap2RdhXi8mEGsGrgfPpsVF01mSZ.jpg" group-title="Fleming" catchup-source="Fleming"Temporada 01 ",Fleming S01 E02
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10177170.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Fleming S01 E03" tvg-logo="https://image.tmdb.org/t/p/w780/Ap2RdhXi8mEGsGrgfPpsVF01mSZ.jpg" group-title="Fleming" catchup-source="Fleming"Temporada 01 ",Fleming S01 E03
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10177171.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Fleming S01 E04" tvg-logo="https://image.tmdb.org/t/p/w780/Ap2RdhXi8mEGsGrgfPpsVF01mSZ.jpg" group-title="Fleming" catchup-source="Fleming"Temporada 01 ",Fleming S01 E04
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10177172.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Men in Kilts: A Roadtrip with Sam and Graham S01 E01" tvg-logo="http://timg.bdta.pro/images/0aa524f82e7c9b4518f66cd1f4b2b334.jpg" group-title="Men in Kilts: A Roadtrip with" catchup-source="Men in Kilts: A Roadtrip with"Temporada am and Graham",Men in Kilts: A Roadtrip with Sam and Graham S01 E01
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10219959.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Men in Kilts: A Roadtrip with Sam and Graham S01 E02" tvg-logo="http://timg.bdta.pro/images/0ff401ac4af33c57a9f3e2fca540b344.jpg" group-title="Men in Kilts: A Roadtrip with" catchup-source="Men in Kilts: A Roadtrip with"Temporada am and Graham",Men in Kilts: A Roadtrip with Sam and Graham S01 E02
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10219960.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Men in Kilts: A Roadtrip with Sam and Graham S01 E03" tvg-logo="http://timg.bdta.pro/images/e3105bb39d947b14fa189cc913038b81.jpg" group-title="Men in Kilts: A Roadtrip with" catchup-source="Men in Kilts: A Roadtrip with"Temporada am and Graham",Men in Kilts: A Roadtrip with Sam and Graham S01 E03
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10219961.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Men in Kilts: A Roadtrip with Sam and Graham S01 E04" tvg-logo="http://timg.bdta.pro/images/e0b949f2b75068c7ad31004d7af60720.jpg" group-title="Men in Kilts: A Roadtrip with" catchup-source="Men in Kilts: A Roadtrip with"Temporada am and Graham",Men in Kilts: A Roadtrip with Sam and Graham S01 E04
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10219962.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Men in Kilts: A Roadtrip with Sam and Graham S01 E05" tvg-logo="http://timg.bdta.pro/images/d9cc995929695dea1c8a831d74ba2e68.jpg" group-title="Men in Kilts: A Roadtrip with" catchup-source="Men in Kilts: A Roadtrip with"Temporada am and Graham",Men in Kilts: A Roadtrip with Sam and Graham S01 E05
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10219963.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Men in Kilts: A Roadtrip with Sam and Graham S01 E06" tvg-logo="http://timg.bdta.pro/images/099d1fd6a0b5c3d7a989f94785fcf972.jpg" group-title="Men in Kilts: A Roadtrip with" catchup-source="Men in Kilts: A Roadtrip with"Temporada am and Graham",Men in Kilts: A Roadtrip with Sam and Graham S01 E06
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10219964.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Men in Kilts: A Roadtrip with Sam and Graham S01 E07" tvg-logo="http://timg.bdta.pro/images/c4e74c228bdf650228f81769bb91d1fd.jpg" group-title="Men in Kilts: A Roadtrip with" catchup-source="Men in Kilts: A Roadtrip with"Temporada am and Graham",Men in Kilts: A Roadtrip with Sam and Graham S01 E07
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10219965.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Men in Kilts: A Roadtrip with Sam and Graham S01 E08" tvg-logo="http://timg.bdta.pro/images/b875666eb01fce208914252d6f539c5c.jpg" group-title="Men in Kilts: A Roadtrip with" catchup-source="Men in Kilts: A Roadtrip with"Temporada am and Graham",Men in Kilts: A Roadtrip with Sam and Graham S01 E08
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10219966.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Tudo Aquilo Que Nunca Foi Dito S01 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/gm2rsgFXP9upClA9n8bKf6bcCIV.jpg" group-title="Tudo Aquilo Que Nunca Foi Dito" catchup-source="Tudo Aquilo Que Nunca Foi Dito"Temporada 01 ",Tudo Aquilo Que Nunca Foi Dito S01 E01
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10240851.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Tudo Aquilo Que Nunca Foi Dito S01 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/29aLU81HimEXq7NkYVhXR6K8b7o.jpg" group-title="Tudo Aquilo Que Nunca Foi Dito" catchup-source="Tudo Aquilo Que Nunca Foi Dito"Temporada 01 ",Tudo Aquilo Que Nunca Foi Dito S01 E02
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10240852.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Tudo Aquilo Que Nunca Foi Dito S01 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/5tIlhM0n6qvjCXDSfI0AudwXhn6.jpg" group-title="Tudo Aquilo Que Nunca Foi Dito" catchup-source="Tudo Aquilo Que Nunca Foi Dito"Temporada 01 ",Tudo Aquilo Que Nunca Foi Dito S01 E03
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10240853.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Tudo Aquilo Que Nunca Foi Dito S01 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/snLF46RsmMsQhc3nRT1QQy6xbTY.jpg" group-title="Tudo Aquilo Que Nunca Foi Dito" catchup-source="Tudo Aquilo Que Nunca Foi Dito"Temporada 01 ",Tudo Aquilo Que Nunca Foi Dito S01 E04
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10240854.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Tudo Aquilo Que Nunca Foi Dito S01 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/4wp2jifFaOsf5M30VSOPQFCDOgM.jpg" group-title="Tudo Aquilo Que Nunca Foi Dito" catchup-source="Tudo Aquilo Que Nunca Foi Dito"Temporada 01 ",Tudo Aquilo Que Nunca Foi Dito S01 E05
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10240855.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Tudo Aquilo Que Nunca Foi Dito S01 E06" tvg-logo="http://timg.bdta.pro/t/p/w1280/1sphwTB5mr98XCK6lbTS1d4MpNo.jpg" group-title="Tudo Aquilo Que Nunca Foi Dito" catchup-source="Tudo Aquilo Que Nunca Foi Dito"Temporada 01 ",Tudo Aquilo Que Nunca Foi Dito S01 E06
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10240856.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Tudo Aquilo Que Nunca Foi Dito S01 E07" tvg-logo="http://timg.bdta.pro/t/p/w1280/bWX1BDK5FNioTs9qnQiCXUF0T9k.jpg" group-title="Tudo Aquilo Que Nunca Foi Dito" catchup-source="Tudo Aquilo Que Nunca Foi Dito"Temporada 01 ",Tudo Aquilo Que Nunca Foi Dito S01 E07
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10240857.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Tudo Aquilo Que Nunca Foi Dito S01 E08" tvg-logo="http://timg.bdta.pro/t/p/w1280/kXIuvPUdSfwyjjFSsC6gpHhC5JO.jpg" group-title="Tudo Aquilo Que Nunca Foi Dito" catchup-source="Tudo Aquilo Que Nunca Foi Dito"Temporada 01 ",Tudo Aquilo Que Nunca Foi Dito S01 E08
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10240858.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Tudo Aquilo Que Nunca Foi Dito S01 E09" tvg-logo="http://timg.bdta.pro/t/p/w1280/pKdHaP9rLM79mYnbLxlJ8H1ftWL.jpg" group-title="Tudo Aquilo Que Nunca Foi Dito" catchup-source="Tudo Aquilo Que Nunca Foi Dito"Temporada 01 ",Tudo Aquilo Que Nunca Foi Dito S01 E09
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10240859.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Nacho S01 E01" tvg-logo="http://timg.bdta.pro/t/p/w1280/hJNUNQtKvi8qr08xnxwzC3ItsF9.jpg" group-title="Nacho" catchup-source="Nacho"Temporada 01 ",Nacho S01 E01
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10245484.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Nacho S01 E02" tvg-logo="http://timg.bdta.pro/t/p/w1280/qu1YZtu7nfPqufJabjR6UdfZOmM.jpg" group-title="Nacho" catchup-source="Nacho"Temporada 01 ",Nacho S01 E02
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10245485.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Nacho S01 E03" tvg-logo="http://timg.bdta.pro/t/p/w1280/e3x73ZwLVARuJbrXFTDWKLiShg.jpg" group-title="Nacho" catchup-source="Nacho"Temporada 01 ",Nacho S01 E03
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10245486.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Nacho S01 E04" tvg-logo="http://timg.bdta.pro/t/p/w1280/h4fl9pbFMtWm9hOCwvtDjhcr6JD.jpg" group-title="Nacho" catchup-source="Nacho"Temporada 01 ",Nacho S01 E04
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10245487.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Nacho S01 E05" tvg-logo="http://timg.bdta.pro/t/p/w1280/5ZAbF7FGb2sTJfuLICsh7MiQMsp.jpg" group-title="Nacho" catchup-source="Nacho"Temporada 01 ",Nacho S01 E05
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10245488.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Nacho S01 E06" tvg-logo="http://timg.bdta.pro/t/p/w1280/k9quOggR9geTwLQwn0e3vhFUHKl.jpg" group-title="Nacho" catchup-source="Nacho"Temporada 01 ",Nacho S01 E06
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10245489.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Nacho S01 E07" tvg-logo="http://timg.bdta.pro/t/p/w1280/qYKkiB7in0ct2frIdoqH0jPxwMc.jpg" group-title="Nacho" catchup-source="Nacho"Temporada 01 ",Nacho S01 E07
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10245490.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Nacho S01 E08" tvg-logo="http://timg.bdta.pro/t/p/w1280/9czN87TMLpJvlCGKelj03Mfa6uB.jpg" group-title="Nacho" catchup-source="Nacho"Temporada 01 ",Nacho S01 E08
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10245491.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Vanda S01 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/c1JByGHJQQ1gT10TgtuGbTeMIbP.jpg" group-title="Vanda" catchup-source="Vanda"Temporada 01 ",Vanda S01 E01
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10250146.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Vanda S01 E02" tvg-logo="http://timg.bdta.pro/t/p/w1280/8w3WpjY8Wz288mqry0JKsPW09u9.jpg" group-title="Vanda" catchup-source="Vanda"Temporada 01 ",Vanda S01 E02
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10250147.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Vanda S01 E03" tvg-logo="http://timg.bdta.pro/t/p/w1280/fgHse8btjFn8jKaK8gBcvfWSy5Z.jpg" group-title="Vanda" catchup-source="Vanda"Temporada 01 ",Vanda S01 E03
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10250148.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Vanda S01 E04" tvg-logo="http://timg.bdta.pro/t/p/w1280/wPpeCrZeTdqushVUbHgAcNprG1Y.jpg" group-title="Vanda" catchup-source="Vanda"Temporada 01 ",Vanda S01 E04
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10250149.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Vanda S01 E05" tvg-logo="http://timg.bdta.pro/t/p/w1280/1tImfsoPnbjjHFraQP5TNsQId9T.jpg" group-title="Vanda" catchup-source="Vanda"Temporada 01 ",Vanda S01 E05
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10250150.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Vanda S01 E06" tvg-logo="https://image.tmdb.org/t/p/w780/aNsPraDR9Yq7xeK5K4jkPc6gnis.jpg" group-title="Vanda" catchup-source="Vanda"Temporada 01 ",Vanda S01 E06
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10250151.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Vanda S01 E07" tvg-logo="http://timg.bdta.pro/t/p/w1280/6QSiyX7JJukCVfRk5cXehNJiZPc.jpg" group-title="Vanda" catchup-source="Vanda"Temporada 01 ",Vanda S01 E07
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10250152.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Vanda S01 E08" tvg-logo="http://timg.bdta.pro/t/p/w1280/mVuwhHLSmc07Z2SW2ZmgMLeVv3A.jpg" group-title="Vanda" catchup-source="Vanda"Temporada 01 ",Vanda S01 E08
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10250153.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S01 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/z6IAw9rZd5l1T5aEAK8SiNgqsF.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 01 ",Survivor's Remorse S01 E01
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259308.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S01 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/7mQrJTYcozBjs3ZD9IShlL24R2M.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 01 ",Survivor's Remorse S01 E02
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259309.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S01 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/rWwJulNaLfkQ4VbnIQSBmYUxAtn.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 01 ",Survivor's Remorse S01 E03
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259310.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S01 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/n3zfumLlqgyBiiXiOoUTfUNS9bU.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 01 ",Survivor's Remorse S01 E04
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259311.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S01 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/af6U8FsoBFY7oHuMpcKfguZTCDg.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 01 ",Survivor's Remorse S01 E05
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259312.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S01 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/lmnOJFcGe434HiFOlQTRQs0KRJe.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 01 ",Survivor's Remorse S01 E06
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259313.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S02 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aKGQL59nhxa89LRUhAhukYQgFgE.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 02 ",Survivor's Remorse S02 E01
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259314.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S02 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/jNWIxdbqXt3RWiZUiE3TsEeIike.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 02 ",Survivor's Remorse S02 E02
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259315.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S02 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/7mtv6KgqIImr4X7exunlGwIMqF2.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 02 ",Survivor's Remorse S02 E03
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259316.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S02 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/yOB3P5mF3AIgPUJnDnY7EPx3IXB.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 02 ",Survivor's Remorse S02 E04
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259317.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S02 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/dfoTaFcIb7M1lCbFgjhbFb14GF.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 02 ",Survivor's Remorse S02 E05
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259318.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S02 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/lsqoSNHgDPPkFbNq3QsUWU92BBm.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 02 ",Survivor's Remorse S02 E06
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259319.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S02 E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/jwb3FDQuF3BzN6vBXqISZaZuTRm.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 02 ",Survivor's Remorse S02 E07
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259320.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S02 E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/6fN2Y9QJtTCZcksUPEH7S5BUyw5.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 02 ",Survivor's Remorse S02 E08
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259321.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S02 E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/zYtdcZZw1sXZbJJzyuHVdVEwGuu.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 02 ",Survivor's Remorse S02 E09
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259322.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S02 E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/mdCsWfPcJVf8PGKLXAMnbD05rxL.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 02 ",Survivor's Remorse S02 E10
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259323.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S03 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/8eLgMh6wQ1WgFIDWvHKYIn0UaKc.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 03 ",Survivor's Remorse S03 E01
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259324.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S03 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/bwPeZ4lomIDS4ynCBaGCDACksuF.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 03 ",Survivor's Remorse S03 E02
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259325.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S03 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/wQUN9VWa5NYURVrqBCcvvZoClUu.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 03 ",Survivor's Remorse S03 E03
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259326.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S03 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/lRcp8AMKJdKQlEH9fWEDRuSXBYw.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 03 ",Survivor's Remorse S03 E04
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259327.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S03 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/hTPTwepSYVXRyS7jEAEXv3Ulrzu.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 03 ",Survivor's Remorse S03 E05
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259328.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S03 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/hSy6GE7VLNhKXNdmcp1t5OKA0NB.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 03 ",Survivor's Remorse S03 E06
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259329.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S03 E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/sxLYYZFRmuD9vijnm9QQABeZG2D.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 03 ",Survivor's Remorse S03 E07
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259330.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S03 E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/rnypP6gEWaYXlUPWOzHNpm1qFlD.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 03 ",Survivor's Remorse S03 E08
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259331.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S03 E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/bRytQ4iqg37xwoCoDZFJTBpzFuY.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 03 ",Survivor's Remorse S03 E09
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259332.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S03 E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/soRVfl6UjySjr59G879AkIfX2sK.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 03 ",Survivor's Remorse S03 E10
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259333.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S04 E01" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/wrrdaBWAWaiiwPwJNbGg5xE3IEh.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 04 ",Survivor's Remorse S04 E01
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259334.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S04 E02" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/kMjOkHYdmV8yQREFXYASTBScxnz.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 04 ",Survivor's Remorse S04 E02
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259335.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S04 E03" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/oayGFU9ODi1f61NYuBMUMjxBa8F.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 04 ",Survivor's Remorse S04 E03
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259336.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S04 E04" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/kzGgPYRQxBcXVPYwKvDkciu806e.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 04 ",Survivor's Remorse S04 E04
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259337.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S04 E05" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/fEnQOLvFJQxXjkyMWubum7pvted.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 04 ",Survivor's Remorse S04 E05
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259338.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S04 E06" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/aw2pJtvAlassJ9vghMYoARYZh4g.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 04 ",Survivor's Remorse S04 E06
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259339.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S04 E07" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/820hpyTIqHhixfBWvwmWgzVPk0r.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 04 ",Survivor's Remorse S04 E07
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259340.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S04 E08" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/ouC3cq1oSzuALB7B4K03Ce6UCBH.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 04 ",Survivor's Remorse S04 E08
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259341.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S04 E09" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/oBcBXHYrHACjJHrUVadTmAQQQjh.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 04 ",Survivor's Remorse S04 E09
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259342.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Survivor's Remorse S04 E10" tvg-logo="http://timg.bdta.pro/t/p/w600_and_h900_bestv2/dQe6GiyuG6ieq0TWLSnCwWGeFWo.jpg" group-title="Survivor's Remorse" catchup-source="Survivor's Remorse"Temporada 04 ",Survivor's Remorse S04 E10
+http://xc.tvdecasa.top:80/series/BlackPlay/Blackplay8486@/10259343.mp4
