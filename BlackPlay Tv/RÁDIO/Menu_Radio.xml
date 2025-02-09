@@ -1,1 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+<channel>
+<name>[B][COLOR white]SERVIDOR: 1[/COLOR][/B] [COLOR aquamarine][RADIOSAOVIVO]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/SERVIDOR%201.png</thumbnail>
+<fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<info>Servidor 1, RADIOSAOVIVO, Esse é um servidor dedicado a escutar Rádio Online.
 
+[B][COLOR aquamarine]CRÉDITOS AO SITE[/COLOR][B]
+
+[COLOR blue]https://radiosaovivo.net[/COLOR]</info>
+<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/R%C3%81DIO/SERVIDOR%201/menu_radio.xml</externallink>
+</channel>
+
+
+<channel>
+<name>[B][COLOR white]SERVIDOR: 2[/COLOR][/B] [COLOR aquamarine][RADIOS.COM]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/SERVIDOR%202.png</thumbnail>
+<fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<info>Servidor 1, RADIOSAOVIVO, Esse é um servidor dedicado a escutar Rádio Online.
+
+[B][COLOR aquamarine]CRÉDITOS AO SITE[/COLOR][B]
+
+[COLOR blue]https://radios.com.br[/COLOR]</info>
+<externallink></externallink>
+</channel>
+
+
+</channels>
