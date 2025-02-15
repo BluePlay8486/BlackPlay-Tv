@@ -2,12 +2,16 @@
 <channels>
 
     <channel>
-        <name>[B][COLOR aquamarine]OPÇÃO:[/COLOR] [COLOR white]TORRENT[/COLOR][/B]</name> <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/LOGO.png</thumbnail>
-        <fanart>https://example.com/launch-fanart.jpg</fanart> <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</externallink>
+        <name>[B][COLOR aquamarine]OPÇÃO:[/COLOR] [COLOR white]TORRENT[/COLOR][/B]</name> 
+        <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/LOGO.png</thumbnail>
+        <fanart>https://example.com/launch-fanart.jpg</fanart> 
+        <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</externallink>
     </channel>
     
     <channel>
-        <name>[B][COLOR aquamarine]OPÇÃO:[/COLOR] [COLOR white]LINK DIRETO[/COLOR][/B]</name>        <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/LOGO.png</thumbnail> <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+        <name>[B][COLOR aquamarine]OPÇÃO:[/COLOR] [COLOR white]LINK DIRETO[/COLOR][/B]</name>
+        <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/LOGO.png</thumbnail>
+        <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
         <externallink>https://example.com/action-list.txt</externallink>
     </channel>
     
