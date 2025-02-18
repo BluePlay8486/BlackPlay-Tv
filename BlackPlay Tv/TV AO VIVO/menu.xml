@@ -27,8 +27,8 @@
     
 <channel>
         <name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] PORTUGAL TV[/COLOR][/B]</name>
-        <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/download%20(1).jpeg</thumbnail>
-        <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/download%20(1).png</fanart>
+        <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/Portugal.icon.png</thumbnail>
+        <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.Portugal.png</fanart>
         <info>Canais de Portugal Aproveite</info>
         <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/TV%20AO%20VIVO/Lista_Selecionada.txt</externallink>
     </channel>
