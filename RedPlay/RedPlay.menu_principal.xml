@@ -1,24 +1,7 @@
 <channels>
     
 <channel>
-<name>[B][COLOR firebrick]:::[/COLOR][COLOR white]RED[COLOR firebrick]PLAY[/COLOR][COLOR firebrick]:::[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/GR%C3%8AMIO%20JACAREEMSE_20250223_120124_0009.png</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
-<fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
-<info>Bem-vindo ao RedPlay! Desfrute de uma experiência incrível com uma vasta seleção de filmes, séries,Navegue e encontre tudo o que você adora, em um único lugar como:
-
-[B][COLOR firebrick]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]
-[B][COLOR firebrick]●[/COLOR] [COLOR white]PLUTO TV[/COLOR][/B]
-[B][COLOR firebrick]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]
-[B][COLOR firebrick]●[/COLOR] [COLOR white]SÉRIES[/COLOR][/B]
-
-[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
-
-[COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
-</channel>
-    
-<channel>
-<name>[COLOR firebrick]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR]</name>
+<name>[B][COLOR firebrick]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]</name>
 <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/iconlive.png</thumbnail>
 <externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
 <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
@@ -30,7 +13,7 @@
 </channel>
 
 <channel>
-<name>[COLOR firebrick]●[/COLOR] [COLOR white]PLUTO TV[/COLOR]</name>
+<name>[B][COLOR firebrick]●[/COLOR] [COLOR white]PLUTO TV[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
 <externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
 <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
@@ -42,7 +25,7 @@
 </channel>
 
 <channel>
-<name>[COLOR firebrick]●[/COLOR] [COLOR white]FILMES[/COLOR]</name>
+<name>[B][COLOR firebrick]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
 <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/iconmovies.png</thumbnail>
 <externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
 <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
@@ -54,7 +37,7 @@
 </channel>
 
 <channel>
-<name>[COLOR firebrick]●[/COLOR] [COLOR white]SÉRIES[/COLOR]</name>
+<name>[B][COLOR firebrick]●[/COLOR] [COLOR white]SÉRIES[/COLOR][/B]</name>
 <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/icontvseries.png</thumbnail>
 <externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
 <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
