@@ -1,13 +1,30 @@
 <channels>
     
 <channel>
+<name>[B][COLOR firebrick]:::[/COLOR][COLOR white]REDPLAY[/COLOR][COLOR firebrick]:::[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/GR%C3%8AMIO%20JACAREEMSE_20250223_120124_0009.png</thumbnail>
+<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
+<info>Bem-vindo ao RedPlay! Desfrute de uma experiência incrível com uma vasta seleção de filmes, séries,Navegue e encontre tudo o que você adora, em um único lugar como:
+
+[B][COLOR firebrick]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]
+[B][COLOR firebrick]●[/COLOR] [COLOR white]PLUTO TV[/COLOR][/B]
+[B][COLOR firebrick]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]
+[B][COLOR firebrick]●[/COLOR] [COLOR white]SÉRIES[/COLOR][/B]
+
+[B][COLOR firebrick]DOAÇÃO:[/COLOR][/B]
+
+[COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
+</channel> 
+    
+<channel>
 <name>[B][COLOR firebrick]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]</name>
 <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/iconlive.png</thumbnail>
 <externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
 <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
 <info>Assista a uma seleção de canais ao vivo organizados por categorias, como Abertos, Esportes, Filmes & Séries, Notícias, Infantil e Música. Navegue facilmente por uma interface intuitiva e acesse transmissões de alta qualidade com apenas um clique entretenimento ao vivo direto no seu Kodi!
 
-[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+[B][COLOR firebrick]DOAÇÃO:[/COLOR][/B]
 
 [COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
 </channel>
@@ -19,7 +36,7 @@
 <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
 <info>Acesse uma variedade de canais gratuitos da Pluto TV, organizados por categorias como Filmes, Séries, Esportes, Notícias, Infantil e Muito Mais. Navegue por uma interface simples e encontre transmissões ao vivo e conteúdos on-demand sem precisar de cadastro. Assista instantaneamente com apenas um clique e aproveite a programação 24 horas por dia. Tudo pronto para você curtir no seu Kodi!
 
-[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+[B][COLOR firebrick]DOAÇÃO:[/COLOR][/B]
 
 [COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
 </channel>
@@ -31,7 +48,7 @@
 <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
 <info>Mergulhe no mundo do cinema com uma vasta seleção de filmes para todos os gostos. Descubra lançamentos recentes, grandes clássicos e filmes premiados, organizados por gênero, popularidade e ano de lançamento. Não importa o seu estilo, temos o filme perfeito esperando por você
 
-[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+[B][COLOR firebrick]DOAÇÃO:[/COLOR][/B]
 
 [COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
 </channel>
@@ -43,9 +60,22 @@
 <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
 <info>Explore uma seleção de séries envolventes, com histórias que vão te prender do começo ao fim. De comédias leves a tramas intensas, temos séries imperdíveis para todos os gostos. Navegue e encontre sua próxima maratona!
 
-[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+[B][COLOR firebrick]DOAÇÃO:[/COLOR][/B]
 
 [COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
+</channel>
+
+<channel>
+<name>[B][COLOR yellow]●[/COLOR] [COLOR white]DOAÇÃO[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/DOA%C3%87%C3%83O.png</thumbnail>
+<fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<info>Ajude a manter o RedPlay sempre atualizado e funcionando! Nosso objetivo é oferecer a melhor experiência possível, trazendo novos conteúdos e melhorias constantes. Sua doação é fundamental para que possamos continuar aprimorando o serviço, garantindo qualidade e estabilidade. Se você gosta do RedPlay e quer apoiar o projeto, contribua com qualquer valor. Toda ajuda é bem-vinda e faz a diferença!
+
+[B][COLOR firebrick]DOAÇÃO:[/COLOR][/B]
+
+[COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
+<externallink>https://team.com</externallink>
+
 </channel>
 
 </channels>
