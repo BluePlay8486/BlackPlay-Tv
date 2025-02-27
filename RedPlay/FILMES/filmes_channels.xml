@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
     <channel>
-        <name>[B][COLOR yellow]FILMES[/COLOR] [COLOR white]| LANÇAMENTOS 2024[/COLOR][/B]</name>
+        <name>[B][COLOR yellow]FILMES[/COLOR] [COLOR white]| LANÇAMENTOS[/COLOR][/B]</name>
         <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
         <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
         <externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/main/FILMES/LANCAMENTOS_2024.xml</externallink>
-    </channel>
-    <channel>
-        <name>[B][COLOR yellow]FILMES[/COLOR] [COLOR white]| LANÇAMENTOS 2023[/COLOR][/B]</name>
-        <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
-        <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
-        <externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/main/FILMES/LANCAMENTOS_2023.xml</externallink>
-    </channel>
-    <channel>
-        <name>[B][COLOR yellow]FILMES[/COLOR] [COLOR white]| LANÇAMENTOS 2022[/COLOR][/B]</name>
-        <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
-        <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
-        <externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/main/FILMES/LANCAMENTOS_2022.xml</externallink>
     </channel>
     <channel>
         <name>[B][COLOR yellow]FILMES[/COLOR] [COLOR white]| AÇÃO[/COLOR][/B]</name>
