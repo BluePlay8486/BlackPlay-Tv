@@ -33,8 +33,8 @@
 
 <channel>
 <name>[B][COLOR firebrick]●[/COLOR] [COLOR white]PLUTO TV[/COLOR][/B]</name>
-<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/images.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/pluginstreaming/ENTRADA/main/Pluto%20TV.XML</externallink>
 <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
 <info>Acesse uma variedade de canais gratuitos da Pluto TV, organizados por categorias como Filmes, Séries, Esportes, Notícias, Infantil e Muito Mais. Navegue por uma interface simples e encontre transmissões ao vivo e conteúdos on-demand sem precisar de cadastro. Assista instantaneamente com apenas um clique e aproveite a programação 24 horas por dia. Tudo pronto para você curtir no seu Kodi!
 
@@ -65,19 +65,6 @@
 [B][COLOR firebrick]DOAÇÃO:[/COLOR][/B]
 
 [COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
-</channel>
-
-<channel>
-<name>[B][COLOR yellow]●[/COLOR] [COLOR white]DOAÇÃO[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/DOA%C3%87%C3%83O.png</thumbnail>
-<fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
-<info>Ajude a manter o RedPlay sempre atualizado e funcionando! Nosso objetivo é oferecer a melhor experiência possível, trazendo novos conteúdos e melhorias constantes. Sua doação é fundamental para que possamos continuar aprimorando o serviço, garantindo qualidade e estabilidade. Se você gosta do RedPlay e quer apoiar o projeto, contribua com qualquer valor. Toda ajuda é bem-vinda e faz a diferença!
-
-[B][COLOR firebrick]DOAÇÃO:[/COLOR][/B]
-
-[COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
-<externallink>https://team.com</externallink>
-
 </channel>
 
 </channels>
