@@ -1,8 +1,9 @@
+
 <channels>
 
 <channel>
 <name>[B][COLOR white]NETFLIX[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/GR%C3%8EMIO%20JACAREEMSE_20250223_120124_0009.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/GR%C3%8AMIO%20JACAREEMSE_20250223_120124_0009.png</thumbnail>
 <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/RedPlay/S%C3%89RIES/MENUS/netflix.xml</externallink>
 <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
 <info></info>
@@ -10,7 +11,7 @@
 
 <channel>
 <name>[B][COLOR white]AMAZON PRIME VIDEO[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/GR%C3%8EMIO%20JACAREEMSE_20250223_120124_0009.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/GR%C3%8AMIO%20JACAREEMSE_20250223_120124_0009.png</thumbnail>
 <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/RedPlay/S%C3%89RIES/MENUS/amazon_prime_video.xml</externallink>
 <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
 <info></info>
@@ -18,7 +19,7 @@
 
 <channel>
 <name>[B][COLOR white]DISNEY+[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/GR%C3%8EMIO%20JACAREEMSE_20250223_120124_0009.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/GR%C3%8AMIO%20JACAREEMSE_20250223_120124_0009.png</thumbnail>
 <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/RedPlay/S%C3%89RIES/MENUS/disney+.xml</externallink>
 <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
 <info></info>
@@ -26,7 +27,7 @@
 
 <channel>
 <name>[B][COLOR white]APPLETV+[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/GR%C3%8EMIO%20JACAREEMSE_20250223_120124_0009.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/GR%C3%8AMIO%20JACAREEMSE_20250223_120124_0009.png</thumbnail>
 <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/RedPlay/S%C3%89RIES/MENUS/appletv+.xml</externallink>
 <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
 <info></info>
@@ -34,7 +35,7 @@
 
 <channel>
 <name>[B][COLOR white]GLOBOPLAY[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/GR%C3%8EMIO%20JACAREEMSE_20250223_120124_0009.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/GR%C3%8AMIO%20JACAREEMSE_20250223_120124_0009.png</thumbnail>
 <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/RedPlay/S%C3%89RIES/MENUS/globoplay.xml</externallink>
 <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
 <info></info>
@@ -42,7 +43,7 @@
 
 <channel>
 <name>[B][COLOR white]STAR+[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/GR%C3%8EMIO%20JACAREEMSE_20250223_120124_0009.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/GR%C3%8AMIO%20JACAREEMSE_20250223_120124_0009.png</thumbnail>
 <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/RedPlay/S%C3%89RIES/MENUS/star+.xml</externallink>
 <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
 <info></info>
@@ -50,7 +51,7 @@
 
 <channel>
 <name>[B][COLOR white]DISCOVERY+[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/GR%C3%8EMIO%20JACAREEMSE_20250223_120124_0009.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/GR%C3%8AMIO%20JACAREEMSE_20250223_120124_0009.png</thumbnail>
 <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/RedPlay/S%C3%89RIES/MENUS/discovery+.xml</externallink>
 <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
 <info></info>
@@ -58,7 +59,7 @@
 
 <channel>
 <name>[B][COLOR white]HBO MAX[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/GR%C3%8EMIO%20JACAREEMSE_20250223_120124_0009.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/GR%C3%8AMIO%20JACAREEMSE_20250223_120124_0009.png</thumbnail>
 <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/RedPlay/S%C3%89RIES/MENUS/hbo_max.xml</externallink>
 <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
 <info></info>
@@ -66,7 +67,7 @@
 
 <channel>
 <name>[B][COLOR white]PARAMOUNT+[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/GR%C3%8EMIO%20JACAREEMSE_20250223_120124_0009.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/GR%C3%8AMIO%20JACAREEMSE_20250223_120124_0009.png</thumbnail>
 <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/RedPlay/S%C3%89RIES/MENUS/paramount+.xml</externallink>
 <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
 <info></info>
@@ -74,7 +75,7 @@
 
 <channel>
 <name>[B][COLOR white]UNIVERSAL+[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/GR%C3%8EMIO%20JACAREEMSE_20250223_120124_0009.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/GR%C3%8AMIO%20JACAREEMSE_20250223_120124_0009.png</thumbnail>
 <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/RedPlay/S%C3%89RIES/MENUS/universal+.xml</externallink>
 <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
 <info></info>
@@ -82,19 +83,10 @@
 
 <channel>
 <name>[B][COLOR white]BRASIL PARALELO[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/GR%C3%8EMIO%20JACAREEMSE_20250223_120124_0009.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/GR%C3%8AMIO%20JACAREEMSE_20250223_120124_0009.png</thumbnail>
 <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/RedPlay/S%C3%89RIES/MENUS/brasil_paralelo.xml</externallink>
 <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
 <info></info>
 </channel>
-
-<channel>
-<name>[B][COLOR white]ANIMES[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/GR%C3%8EMIO%20JACAREEMSE_20250223_120124_0009.png</thumbnail>
-<externallink>hdjdj</externallink>
-<fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
-<info></info>
-</channel>
-
 
 </channels>
