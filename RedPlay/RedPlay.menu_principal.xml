@@ -46,7 +46,7 @@
 <channel>
 <name>[B][COLOR firebrick]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
 <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/iconmovies.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/refs/heads/main/RedPlay/FILMES/custom_list.m3u</externallink>
+<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/RedPlay/FILMES/custom_list.m3u</externallink>
 <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
 <info>Mergulhe no mundo do cinema com uma vasta seleção de filmes para todos os gostos. Descubra lançamentos recentes, grandes clássicos e filmes premiados, organizados por gênero, popularidade e ano de lançamento. Não importa o seu estilo, temos o filme perfeito esperando por você
 
@@ -58,7 +58,7 @@
 <channel>
 <name>[B][COLOR firebrick]●[/COLOR] [COLOR white]SÉRIES[/COLOR][/B]</name>
 <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/icontvseries.png</thumbnail>
-<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/RedPlay/S%C3%89RIES/desenhos.m3u</externallink>
+<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
 <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
 <info>Explore uma seleção de séries envolventes, com histórias que vão te prender do começo ao fim. De comédias leves a tramas intensas, temos séries imperdíveis para todos os gostos. Navegue e encontre sua próxima maratona!
 
@@ -66,5 +66,30 @@
 
 [COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
 </channel>
+
+<channel>
+<name>[B][COLOR firebrick]●[/COLOR] [COLOR white]DORAMAS[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/DORAMAS.png</thumbnail>
+<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/RedPlay/DORAMAS/dorama.xml</externallink>
+<fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
+<info>Mergulhe no universo dos dramas asiáticos com o melhor do entretenimento coreano, japonês, chinês e tailandês! No menu Dorama, você encontrará uma seleção de séries emocionantes, desde os romances mais envolventes até os dramas cheios de ação e mistério. Descubra novas histórias, acompanhe seus atores favoritos e aproveite legendas de qualidade para uma experiência imersiva.
+
+[B][COLOR firebrick]DOAÇÃO:[/COLOR][/B]
+
+[COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
+</channel>
+
+<channel>
+<name>[B][COLOR firebrick]●[/COLOR] [COLOR white]NOVELAS[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/NOVELAS.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/refs/heads/main/BlackPlay%20Tv/NOVELAS/NOVELA.xml</externallink>
+<fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/REDPLAY%20ICON/fanart.jpg</fanart>
+<info>Aqui você encontra as melhores novelas para maratonar! Dos grandes clássicos aos sucessos mais recentes, este menu traz histórias cheias de emoção, romance, intrigas e reviravoltas inesquecíveis. Descubra produções nacionais e internacionais, reviva momentos marcantes e acompanhe seus personagens favoritos em tramas envolventes.
+
+[B][COLOR firebrick]DOAÇÃO:[/COLOR][/B]
+
+[COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
+</channel>
+
 
 </channels>
